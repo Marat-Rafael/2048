@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tablero_layout_300">280dp</dimen>
+    <dimen name="celda_80">60dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>
